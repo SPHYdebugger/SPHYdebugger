@@ -6,8 +6,6 @@
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma y Web</h3>
 </p>
 <br>
- <img width="50px" src="https://github.com/SPHYdebugger/SPHYdebugger/assets/125799476/5fbf199d-8840-450b-aa8a-d9f215eeb373"
- 
 
 ### Lenguajes de programación 🌐
 
@@ -15,10 +13,9 @@
 |---|---|---|---|---|---|---|---|
 
 
- 
 ### Herramientas de trabajo 🛠️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24">](https://github.com/) | [<img src="https://cdn-icons-png.flaticon.com/128/7131/7131117.png" alt="Trello" width="24">](https://trello.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" width="24">](https://www.microsoft.com/windows/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="24">](https://www.linux.org/)  |  [<img src="https://cdn-icons-png.flaticon.com/128/10435/10435128.png" alt="Agile" width="24">](https://www.agilealliance.org/) | Scrum | solid |
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24">](https://github.com/) | [<img src="https://cdn-icons-png.flaticon.com/128/7131/7131117.png" alt="Trello" width="24">](https://trello.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" width="24">](https://www.microsoft.com/windows/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="24">](https://www.linux.org/)  |  [<img src="https://cdn-icons-png.flaticon.com/128/10435/10435128.png" alt="Agile" width="24">](https://www.agilealliance.org/) | [<img src="https://github.com/SPHYdebugger/SPHYdebugger/blob/main/SCRUM.png" alt="Scrum" width="24">](https://www.agilealliance.org/) | [<img src="https://github.com/SPHYdebugger/SPHYdebugger/blob/main/solid.png)" alt="SOLID" width="24">]([https://es.wikipedia.org/wiki/SOLID)) |
 |---|---|---|---|---|---|---|---|
 
 
