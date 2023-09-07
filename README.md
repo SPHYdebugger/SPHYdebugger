@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=yourGithubUsername" alt="yourGithubUsername" />
+<img src="https://komarev.com/ghpvc/?username=SPHYdebbuger" alt="yourGithubUsername" />
 <p align="center">
  <img width="200px" src="https://github.com/SPHYdebugger/SPHYdebugger/blob/main/programador.png">
 <h1 align="center"> Hola MUNDO 👋</h1>
