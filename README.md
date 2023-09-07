@@ -1,15 +1,12 @@
 <img src="https://komarev.com/ghpvc/?username=yourGithubUsername" alt="yourGithubUsername" />
-<center>
+<p align="center">
  <img width="200px" src="https://github.com/SPHYdebugger/SPHYdebugger/blob/main/programador.png">
-
-</center>
-
-<center>
 <h1> Hola MUNDO 👋
 <h2> Soy Santiago Pérez Hernández</h2>
 Estudiante de Desarrollo de Aplicaciones Multiplataforma y Web
-</center>
+</p>
 <br>
+ 
 - SANTIAGO PÉREZ HERNÁNDEZ
 - 👋 Hi, I’m @SPHYdebugger
 - 👀 I’m interested in ...
