@@ -18,4 +18,12 @@
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="35">](https://git-scm.com/) |  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="35">](https://github.com/) | [<img src="https://cdn-icons-png.flaticon.com/128/7131/7131117.png" alt="Trello" width="35">](https://trello.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" width="35">](https://www.microsoft.com/windows/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="35">](https://www.linux.org/)  |  [<img src="https://cdn-icons-png.flaticon.com/128/10435/10435128.png" alt="Agile" width="35">](https://www.agilealliance.org/) | [<img src="https://github.com/SPHYdebugger/SPHYdebugger/blob/main/SCRUM.png" alt="Scrum" width="35">](https://www.agilealliance.org/) | [<img src="https://github.com/SPHYdebugger/SPHYdebugger/blob/main/solid.png" alt="SOLID" width="35">]([https://es.wikipedia.org/wiki/SOLID) |
 |---|---|---|---|---|---|---|---|
 
+### YO en la red 👤		
+
+<p align="center">
+<a href="#" target="blank"><img alt="Website" src="https://img.shields.io/badge/Website-En desarrollo-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/santiagoperezhernandez/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SPHY-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:yourEmail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sphy.debugger@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
 
