@@ -6,7 +6,8 @@
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma y Web</h3>
 </p>
 <br>
- 
+ <img width="50px" src="https://github.com/SPHYdebugger/SPHYdebugger/assets/125799476/5fbf199d-8840-450b-aa8a-d9f215eeb373"
+
 - SANTIAGO PÉREZ HERNÁNDEZ
 - 👋 Hi, I’m @SPHYdebugger
 - 👀 I’m interested in ...
