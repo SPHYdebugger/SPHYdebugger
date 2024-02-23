@@ -6,7 +6,7 @@
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
 </p>
 <br>
-<p>
+<p align="center">
 Hace más de 20 años que soy técnico superior de telecomunicaciones, pero ahora estoy haciendo el grado superior de desarrollo de aplicaciones multiplataforma para dedicarme a mi verdadera vocación. La programación.
 <br>
 He adquirido mucha experiencia gestionando tiempos, equipos y resolución de problemas. Valores que seguro me ayudan en esta nueva etapa profesional.
