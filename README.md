@@ -3,11 +3,11 @@
  <img width="200px" src="https://github.com/SPHYdebugger/SPHYdebugger/blob/main/programador.png">
 <h1 align="center"> Hola MUNDO 👋</h1>
 <h2 align="center"> Soy Santiago Pérez Hernández</h2>
-<h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma y Web</h3>
+<h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
 </p>
 <br>
 <p>
-Hace más de 20 años que soy técnico superior de telecomunicaciones, pero ahora estoy haciendo el grado superior de desarrollo de aplicaciones multiplataforma y web para dedicarme a mi verdadera vocación. La programación.
+Hace más de 20 años que soy técnico superior de telecomunicaciones, pero ahora estoy haciendo el grado superior de desarrollo de aplicaciones multiplataforma para dedicarme a mi verdadera vocación. La programación.
 <br>
 He adquirido mucha experiencia gestionando tiempos, equipos y resolución de problemas. Valores que seguro me ayudan en esta nueva etapa profesional.
 </p>
