@@ -20,6 +20,9 @@ He adquirido mucha experiencia gestionando tiempos, equipos y resolución de pro
 
 ### Herramientas de trabajo 🛠️
 
+[<img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" width="35">](https://www.docker.com/)
+
+
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="35">](https://git-scm.com/) |  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="35">](https://github.com/) | [<img src="https://cdn-icons-png.flaticon.com/128/7131/7131117.png" alt="Trello" width="35">](https://trello.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" width="35">](https://www.microsoft.com/windows/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="35">](https://www.linux.org/)  |  [<img src="https://cdn-icons-png.flaticon.com/128/10435/10435128.png" alt="Agile" width="35">](https://www.agilealliance.org/) | [<img src="https://github.com/SPHYdebugger/SPHYdebugger/blob/main/SCRUM.png" alt="Scrum" width="35">](https://www.agilealliance.org/) | [<img src="https://github.com/SPHYdebugger/SPHYdebugger/blob/main/solid.png" alt="SOLID" width="35">]([https://es.wikipedia.org/wiki/SOLID) | 
 |---|---|---|---|---|---|---|---|
 
